@@ -19,7 +19,7 @@ Avant de lancer le programme, vous devez configurer les paramètres dans le fich
 
 - `"token"` : le token de votre bot Discord.
 - `"lien"` : le lien que vous souhaitez envoyer.
-- `"message"` : le message que vous souhaitez envoyer.
+- `"auteur"` : l'auteur du raid.
 
 Vous devez remplir les champs correspondants dans le fichier `config.json` avant d'exécuter le programme.
 
