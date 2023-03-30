@@ -27,7 +27,10 @@ Vous devez remplir les champs correspondants dans le fichier `config.json` avant
 
 Une fois que vous avez configuré les paramètres dans le fichier `config.json`, vous pouvez lancer le programme en exécutant le fichier `main.py`.
 
-Un `/raid` est intégré.
+Commandes intégrées:
+- `/unban` : Débannir tout les bannis
+- `/channel` : Supprimer tout les salons
+- `/role` : Supprimer tout les rôles
 
 Le bot va raid le serveur.
 
