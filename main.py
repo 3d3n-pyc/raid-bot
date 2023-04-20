@@ -63,8 +63,6 @@ def raid(token, link, by):
 if __name__ == '__main__':
     __config__ = json.load(open('config.json', 'r'))
 
-    watermark()
-
     token = __config__['token']
     link = __config__['lien']
     message = __config__['message']
